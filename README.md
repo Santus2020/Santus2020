@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Santus HABUMUGISHA,
+- 👋 Hi, I’m Santus,
 A Fullstack java developer
 
 <!---
